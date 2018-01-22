@@ -1,5 +1,7 @@
 # English-level-up-tips-for-Chinese
 
+> 本开源书 forked from [English level up tips for Chinese （英语进阶指南）](https://github.com/byoungd/English-level-up-tips-for-Chinese)，作者为 [byoungd](https://github.com/byoungd)，欢迎大家 star 原作者的 [repo](https://github.com/byoungd/English-level-up-tips-for-Chinese)，以便获得最新更新，谢谢！
+
 不久前，备考托福的女神问了我一个问题：如何高效学习英语？
 
 在我思考如何回答这个问题时，想到了在大四上一学期我考过26门课的经验（其中重修19门，当前学期7门），觉得我应该能勉强提供一些高效学习的小技巧。
